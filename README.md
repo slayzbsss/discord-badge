@@ -7,6 +7,8 @@
 3. Type `allow pasting` and press Enter
 4. Paste the contents of the [Game-Time.js](https://github.com/slayzbsss/discord-badge/blob/main/Game-Time.js) file and press Enter
 
+   - Same thing with the [HypeSquad](https://github.com/slayzbsss/discord-badge/blob/main/HypeSquad.js) badge.
+
 
 ## Notes
 
